@@ -1,0 +1,38 @@
+# Projeto de Classificação de Iris
+
+Este projeto é um exemplo de um sistema de classificação de plantas do tipo Iris com base em características botânicas.
+
+## Objetivo do Projeto
+
+O objetivo deste projeto é criar um sistema de classificação de plantas do tipo Iris com base em suas características botânicas. Este sistema pode ser útil em várias aplicações, como biologia, botânica e até mesmo aprendizado de máquina.
+
+## Problema de Negócios
+
+O problema que este projeto visa resolver é a classificação precisa das plantas do tipo Iris com base nas características botânicas. Essa classificação é relevante para botânicos, pesquisadores e entusiastas da botânica, pois ajuda a identificar e categorizar diferentes espécies de Iris de forma eficaz. Além disso, o projeto demonstra como a aprendizagem de máquina pode ser aplicada a problemas do mundo real, como classificação de espécies botânicas.
+
+## Requisitos de Software
+
+Para executar este projeto, é necessário ter o Python instalado. Você também precisará das seguintes bibliotecas Python:
+
+- pandas
+- matplotlib
+- scikit-learn
+
+**Nota:** O projeto é compatível com várias plataformas, incluindo Windows, macOS e Linux.
+
+## Estrutura de Diretórios
+
+- **data/**: Contém o conjunto de dados Iris em formato CSV.
+- **notebooks/**: Inclui os Jupyter Notebooks usados para análise de dados e modelagem.
+- **src/**: O código-fonte do projeto, incluindo scripts para carregar dados, treinar modelos e realizar análises.
+
+## Exemplos e Demonstração
+
+Aqui estão alguns exemplos de comandos que você pode usar para executar o projeto:
+
+- Para executar a análise de dados: `python src/data_analysis.py`
+- Para treinar o modelo SVM: `python src/train_model.py`
+- Para visualizar a matriz de confusão: `python src/plot_confusion_matrix.py`
+
+**Nota:** Certifique-se de executar esses comandos na raiz do projeto.
+
